@@ -1,4 +1,4 @@
-# Todo
+# Todo-Vue
 
 ## Project setup
 ```
@@ -19,3 +19,21 @@ npm run build
 ```
 npm run lint
 ```
+
+### Includes
+
+- Vue.js
+- Vuex
+- ESLint
+
+
+### Folder structure
+
+    .
+	├── src                    	# Source folder
+    │   ├── assets			   	# Assests folder
+	│   ├── components			# Componets folder
+    │   ├── views			    # Views folder
+	│   ├── store				# Vuex folder
+    |   ├── main.js				# Main File
+    └── package.json           	# Node dependencies
