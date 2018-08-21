@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Todo-Vue/js/chunk-vendors.b22956c1.js"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
     "url": "/Todo-Vue/robots.txt"
   },
   {
