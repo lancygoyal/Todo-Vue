@@ -1,6 +1,7 @@
 import Vue from "vue";
 import Router from "vue-router";
 import firebase from "./firebase.js";
+import Readme from "../README.md";
 
 Vue.use(Router);
 
@@ -21,8 +22,7 @@ const router = new Router({
     {
       path: "/about",
       name: "about",
-      component: () =>
-        import(/* webpackChunkName: "about" */ "./views/About.vue")
+      component: Readme
     },
     {
       path: "/hello",
